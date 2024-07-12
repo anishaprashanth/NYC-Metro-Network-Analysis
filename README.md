@@ -1,4 +1,4 @@
-# NYC Metro Network Analysis
+# NYC Metro Network Analysia
 
 This project focuses on analyzing the New York City (NYC) Metro using network analysis techniques. The code is organized into four main parts:
 
